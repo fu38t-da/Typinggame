@@ -1,0 +1,24 @@
+body {
+  font-family: 'Courier New', monospace;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: radial-gradient(#FFF, #FFC778 40%, #F13F79);
+  position: relative;
+}
+
+.typing {
+  width: 100%;
+  height: 100vh;
+  margin-top: 30%;
+  text-align: center;
+}
+
+#target {
+  font-size: 48px;
+  letter-spacing: 3px;
+}
+
+.info {
+  color: #292828;
+}
